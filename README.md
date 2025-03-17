@@ -58,3 +58,7 @@ CS23S038_DL_1/
 `main.py:` Python script containing optimization functions and logic.
 
 `raw_code.ipynb:` Main Jupyter Notebook from which the Python script (cs23s036_dl_assignment1.py) was generated.
+
+#Link to the WANDB report: https://wandb.ai/cs23s038-iit-madras/UDIT_DL_1/reports/CS23S038-DA6401-Assignment-1--VmlldzoxMTcxMjk2Ng
+
+#Link to the GitHub repo: 
