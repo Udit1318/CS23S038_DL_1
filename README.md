@@ -51,7 +51,7 @@ Different optimizers, such as "adam", "sgd", "nesterov", "mgd", "rmsprop", and "
 CS23S038_DL_1/
 - train.py
 - main.py
-- raw_code.ipynb
+- raw_file.ipynb
 
 `train.py:` Python script containing arguments and the main function to call the model_train function.
 
