@@ -61,4 +61,4 @@ CS23S038_DL_1/
 
 #Link to the WANDB report: https://wandb.ai/cs23s038-iit-madras/UDIT_DL_1/reports/CS23S038-DA6401-Assignment-1--VmlldzoxMTcxMjk2Ng
 
-#Link to the GitHub repo: 
+#Link to the GitHub repo: https://github.com/Udit1318/CS23S038_DL_1/
