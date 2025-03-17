@@ -1,8 +1,3 @@
-"""CS23S036 DL-Assignment-1.ipynb
-
-Original file is located at
-    https://colab.research.google.com/drive/1K3crBy1WiefgvRvqj6yplVdG_UloZh6g
-"""
 
 """--------------Activation Functions--------------"""
 
