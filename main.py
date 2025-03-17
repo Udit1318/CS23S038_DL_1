@@ -706,11 +706,11 @@ def model_train_wandb(config=None):
         #                                                   preds=output_test, class_names=labels)})
 
 
-if __name__ == "__main__":
-    try:
-        # Run the sweep
-        wandb.agent(sweep_id, function=model_train_wandb, count=50)
-    except BrokenPipeError:
-        print("⚠️ Broken Pipe Error: Connection was interrupted.")
-    except Exception as e:
-        print(f"Unexpected error: {e}")
+# #if __name__ == "__main__":
+# #    try:
+#         # Run the sweep
+#         wandb.agent(sweep_id, function=model_train_wandb, count=50)
+#     except BrokenPipeError:
+#         print("⚠️ Broken Pipe Error: Connection was interrupted.")
+#     except Exception as e:
+#         print(f"Unexpected error: {e}")
